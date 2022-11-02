@@ -23,6 +23,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/odczik/odczik/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <h2>🐍 Snake eating my (almost) non-existent contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/odczik/odczik/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
 
 ###
