@@ -1,18 +1,4 @@
-<h1 align="center">Hello World! My name is Ondra and I'm dumb.</h1>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="63" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="63" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="50" width="63" alt="apple logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" width="63" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="50" width="63" alt="electron logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="63" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="63" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" width="63" alt="raspberrypi logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="63" alt="vscode logo"  />
-</div>
+<h1 align="center">Web dev is my passion ..and some other things.</h1>
 
 ###
 
@@ -24,12 +10,7 @@
 ###
 
 <div align="center">
-  <h2>🐍 Snake eating my (almost) non-existent contribution 🐍</h2>
-  <br>
   <img alt="snake eating my contribution" src="https://github.com/odczik/odczik/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
 </div>
 
 ###
