@@ -6,6 +6,7 @@
 Programmer & student living in Czech Republic 🇨🇿 <br />
 Currently attending [Střední průmyslová škola elektrotechniky a informatiky Ostrava](https://www.spseiostrava.cz/cs/)
 > Web dev is my passion ..and some other things.
+> > Also, my hatred for PHP is tremendous.
 
 
 ## 🌐 Socials
